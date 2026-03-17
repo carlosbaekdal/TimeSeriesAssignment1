@@ -1,0 +1,1 @@
+Welcome to my R Markdown document exploring a time series using Meta’s Prophet forecasting system. This was used as my official submission for coursework 1 in my third year semester B module, MTH6139 Time Series.
